@@ -1,3 +1,10 @@
 h1 {
     text-align: center;
 }
+
+.marker {
+    background-color: rgb(255, 0, 0);
+    margin: auto;
+    height: 25px;
+    width: 200px;
+}
