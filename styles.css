@@ -3,8 +3,22 @@ h1 {
 }
 
 .marker {
-    background-color: rgb(255, 0, 0);
     margin: 10px auto;
     height: 25px;
     width: 200px;
+}
+
+.container {
+    background-color: rgb(0, 0, 0);
+}
+
+.one {
+    background-color: rgb(255, 0, 0);
+}
+
+.two {
+    background-color: rgb(0, 128, 0);
+}
+.three {
+    background-color: rgb(0, 0, 255);
 }
