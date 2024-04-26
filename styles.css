@@ -4,7 +4,7 @@ h1 {
 
 .marker {
     background-color: rgb(255, 0, 0);
-    margin: auto;
+    margin: 10px auto;
     height: 25px;
     width: 200px;
 }
